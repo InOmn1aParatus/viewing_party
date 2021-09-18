@@ -65,5 +65,5 @@ Example wireframes [here](https://backend.turing.io/module3/projects/viewing_par
 - [LinkedIn](https://www.linkedin.com/in/carolinectan/)
 
 👤  **Matt Kragen**
-- [GitHub](https://github.com/InOmn1aParatus)
+- [GitHub](https://github.com/matt-kragen)
 - [LinkedIn](https://www.linkedin.com/in/mattkragen/)
